@@ -11,7 +11,7 @@ const Tempapp = () => {
     const [weather, setWeather] = useState();
     const [error, setError] = useState('');
 
-    const API_KEY = "2e1c1ba65608bf22668aa2ce55a928db";
+    const API_KEY = "YOUR_API_KEY";
 
     const apiUri = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${API_KEY}`;
 
