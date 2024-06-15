@@ -1,4 +1,5 @@
 {
+  "homepage": "https://(github username).github.io/(repo name)",
   "name": "weatherapp",
   "version": "0.1.0",
   "private": true,
