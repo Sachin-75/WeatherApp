@@ -6,6 +6,9 @@ Welcome to the Weather App! This application allows you to get real-time weather
 - Minimum and Maximum Temperature: Displays the minimum and maximum temperatures recorded for the day.
 - City and Country Display: Shows the name of the city and the country code.
 
+## Website Live
+Website live at https://sachin-75.github.io/WeatherApp/
+
 ## Getting Started
 
 In the project directory, you can run:
